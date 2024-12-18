@@ -15,7 +15,7 @@ Save file and restart the service
 Added webhook options
 dvdf
 
-did second change
+did 2nd change
 
 
 Http to https redirection for Nginx 
