@@ -34,4 +34,4 @@ server {
 }
 
 
-Save file and restart the service
+Save file and restart the service.
